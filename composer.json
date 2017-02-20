@@ -1,0 +1,19 @@
+{
+    "name": "lyllin3615/lyl_logs",
+    "description": "日志记录",
+    "keywords": ["log", "logs"],
+    "authors": [
+        {
+            "name": "lyllin3615",
+            "email": "516005375@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "lyllin3615\\LylLogs\\": "src"
+        }
+    }
+}
